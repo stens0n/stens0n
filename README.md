@@ -6,7 +6,7 @@
 ## Check out some of my projects
 
 - 🏦 Stenson Bank: [Stenson Bank using ReactJS][bank-react]!
-- 🌱 Flappy Bird: [Customized Flappy Bird][birdgame]!
+- 🌱 Flappy Bird: [Customized Flappy Bird using PyGame][birdgame]!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums
@@ -94,7 +94,7 @@
 
 </details>
 
-[birdgame] : https://github.com/stens0n/flappyFridge_PYGAME
+[birdgame]: https://github.com/stens0n/flappyFridge_PYGAME
 [website]: https://codeSTACKr.com
 [bank-react]: https://stensonbankreact.netlify.app/
 [twitter]: https://twitter.com/codeSTACKr
