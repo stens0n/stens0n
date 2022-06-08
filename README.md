@@ -5,7 +5,7 @@
 
 ## Check out some of my projects
 
-- 🔭 Stenson Bank: [Stenson Bank using ReactJS][course]!
+- 🔭 Stenson Bank: [Stenson Bank using ReactJS][bank-react]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
@@ -103,7 +103,7 @@
 </details>
 
 [website]: https://codeSTACKr.com
-[course]: https://stensonbankreact.netlify.app/
+[bank-react]: https://stensonbankreact.netlify.app/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
