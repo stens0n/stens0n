@@ -7,27 +7,18 @@
 
 - 🏦 Stenson Bank: [Stenson Bank using ReactJS][bank-react]!
 - 🌱 Flappy Bird: [Customized Flappy Bird using PyGame][birdgame]!
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://anthonystenson.com/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://anthonystenson.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/#gh-dark-mode-only)
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>][vscode]
@@ -43,17 +34,18 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 💻 Future Coding Goals
 
-<!-- YOUTUBE:START -->
-- [Withdraw Funds from ANY NFT Contract!!](https://www.youtube.com/watch?v=v-udnslmqIE)
-- [The Edge is the Future! What are Edge Functions? Exploring Netlify Edge Functions](https://www.youtube.com/watch?v=mQwWWxYd-SY)
-- [Fastest Upgrade to React 18!! Only 1 Second! 🤯](https://www.youtube.com/watch?v=JLyVyURIWG0)
-- [5 Reasons You Should NOT Create an NFT Collection!!](https://www.youtube.com/watch?v=1ktrrwasouc)
-- [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/watch?v=oQBRZMo0e34)
-<!-- YOUTUBE:END -->
+<!-- GOALS:START -->
+- Make projects that implemnt Rest API's
+- Expand my knowledge of the backend with NodeJS and Django
+- Learn Data Structures and Algorithms
+- Learn SQL
+- Work on Apps and Websites that generate a revenue 
+- Fufill my dream of being a professional Software Engineer
+<!-- GOALS:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+
 
 ---
 
