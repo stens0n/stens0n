@@ -1,4 +1,4 @@
-# Anthony Stenson -- Self Taught Developer
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./img/githubBANNER.png" /></a></p>
 
 
 
