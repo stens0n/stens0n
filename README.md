@@ -5,7 +5,7 @@
 
 ## Check out some of my projects
 
-- 🔭 Stenson Bank: [Stenson Bank using ReactJS][bank-react]!
+- 🏦 Stenson Bank: [Stenson Bank using ReactJS][bank-react]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
