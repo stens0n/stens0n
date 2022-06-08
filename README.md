@@ -1,11 +1,11 @@
-# Hi there, I'm Anthony 👋 
+# Anthony Stenson -- Self Taught Developer
 
 
 
 
-## I'm a self taught developer!!
+## Check out some of my projects
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🔭 Stenson Bank: [Stenson Bank using ReactJS][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
@@ -103,7 +103,7 @@
 </details>
 
 [website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[course]: https://stensonbankreact.netlify.app/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
