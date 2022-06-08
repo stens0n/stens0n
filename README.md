@@ -31,16 +31,13 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>][vscode]
-[<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>]
-[<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>]
-[<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>]
-[<img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>]
-
-[<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Django" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="padding-right:10px;"/>]
-
-[<img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;"/>]
+[<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>][HTML]
+[<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>][CSS]
+[<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][JS]
+[<img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>][REACT]
+[<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][Py]
+[<img align="left" alt="Django" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="padding-right:10px;"/>][django]
+[<img align="left" alt="GitHub" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;"/>][GITHUB]
 <br />
 <br />
 
@@ -105,3 +102,10 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[HTML]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[JS]: https://developer.mozilla.org/en-US/docs/Web/javascript
+[REACT]: https://reactjs.org/docs/getting-started.html
+[Py]: https://docs.python.org/3/
+[django]: https://docs.djangoproject.com/en/4.0/
+[GITHUB]: https://github.com/stens0n
