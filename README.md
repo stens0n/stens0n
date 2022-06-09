@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anthonystenson.com/"><img width="80%" src="./img/newpic.jpg" /></a></p>
+<p align="center"><a href="https://anthonystenson.com/"><img width="80%" src="./img/NEWBAN.png" /></a></p>
 
 
 
