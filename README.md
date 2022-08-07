@@ -6,6 +6,7 @@
 ## Check out some of my projects
 
 - 🏦 Stenson Bank: [Stenson Bank using ReactJS][bank-react]!
+- ₿₿₿ Stenson Crypto Tracker: [Check crypto prices][CRYPTO]!
 - 🌱 Flappy Bird: [Customized Flappy Bird using PyGame][birdgame]!
 
 
@@ -77,3 +78,4 @@
 [Py]: https://docs.python.org/3/
 [django]: https://docs.djangoproject.com/en/4.0/
 [GITHUB]: https://github.com/stens0n
+[CRYPTO]:https://stenson-crypto-react-api.netlify.app/
