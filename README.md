@@ -38,12 +38,9 @@
 ### 💻 Future Coding Goals
 
 <!-- GOALS:START -->
-- Make projects that implemnt Rest API's
 - Expand my knowledge of the backend with NodeJS and Django
-- Learn Data Structures and Algorithms
 - Learn SQL
 - Work on Apps and Websites that generate a revenue 
-- Fufill my dream of being a professional Software Engineer
 <!-- GOALS:END -->
 
 
