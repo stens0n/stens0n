@@ -1,5 +1,5 @@
 <p align="center"><a href="https://anthonystenson.com/"><img width="80%" src="./img/NEWBAN.png" /></a></p>
-
+Seeking to take the next step in my career, I am constantly updating my skills, from Web Development to
 
 
 
