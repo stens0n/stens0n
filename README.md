@@ -1,11 +1,12 @@
 <p align="center"><a href="https://anthonystenson.com/"><img width="80%" src="./img/mario.gif" /></a></p>
-Seeking to take the next step in my career, I am constantly updating my skills, from Web Development to the backend.
+Seeking to take the next step in my career,I am constantly updating my skills, from Web Development to the backend.
 
 
 
 ## Check out some of my projects
 
 - 🏦 Stenson Bank: [Stenson Bank using ReactJS][bank-react]!
+- 🖥️ Stenson Dev Group: [Freelance business Website Concept][dev-group]!
 - ₿₿₿ Stenson Crypto Tracker: [Check crypto prices][CRYPTO]!
 - 🌱 Flappy Bird: [Customized Flappy Bird using PyGame][birdgame]!
 
@@ -57,6 +58,7 @@ Seeking to take the next step in my career, I am constantly updating my skills, 
 
 </details>
 
+[dev-group]: devgroup.netlify.app
 [birdgame]: https://github.com/stens0n/flappyFridge_PYGAME
 [website]: https://codeSTACKr.com
 [bank-react]: https://stensonbankreact.netlify.app/
