@@ -5,9 +5,8 @@ Seeking to take the next step in my career,I am constantly updating my skills, f
 
 ## Check out some of my projects
 
-- 🏦 Stenson Bank: [Stenson Bank using ReactJS][bank-react]!
-- 🖥️ Stenson Dev Group: [Freelance business Website Concept][dev-group]!
-- ₿₿₿ Stenson Crypto Tracker: [Check crypto prices][CRYPTO]!
+- 🏦 Stenson Bank: [Stenson Bank using ReactJS][bank-react]
+- 🖥️ Stenson Dev Group: [Freelance business Website Concept][dev-group]
 - 🌱 Flappy Bird: [Customized Flappy Bird using PyGame][birdgame]!
 
 
