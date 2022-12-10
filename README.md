@@ -58,7 +58,7 @@ Seeking to take the next step in my career,I am constantly updating my skills, f
 
 </details>
 
-[dev-group]: devgroup.netlify.app
+[dev-group]: https://devgroup.netlify.app/
 [birdgame]: https://github.com/stens0n/flappyFridge_PYGAME
 [website]: https://codeSTACKr.com
 [bank-react]: https://stensonbankreact.netlify.app/
