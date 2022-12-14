@@ -1,5 +1,5 @@
 <p align="center"><a href="https://anthonystenson.com/"><img width="80%" src="./img/mario.gif" /></a></p>
-Seeking to take the next step in my career,I am constantly updating my skills, from Web Development to the backend.
+Freelance Web Developer seeking to take the next step in my career, I am constantly updating my skills, and building projects
 
 
 
