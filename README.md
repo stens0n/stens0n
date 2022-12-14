@@ -5,6 +5,7 @@ Seeking to take the next step in my career,I am constantly updating my skills, f
 
 ## Check out some of my projects
 
+- 💸 Top 20 ranked Crypto Tracker: [Tracks the Top 20 crypto currencies on the blockchain using the CoinGecko API][CRYPTO]
 - 🏦 Stenson Bank: [Stenson Bank using ReactJS][bank-react]
 - 🖥️ Stenson Dev Group: [Freelance business Website Concept][dev-group]
 - 🌱 Flappy Bird: [Customized Flappy Bird using PyGame][birdgame]!
@@ -26,6 +27,7 @@ Seeking to take the next step in my career,I am constantly updating my skills, f
 [<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>][HTML]
 [<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>][CSS]
 [<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][JS]
+[<img align="left" alt="GitHub" width="32px" src="./img/tailwind-css-icon.svg" style="padding-right:10px;"/>][Tailwind]
 [<img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>][REACT]
 [<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][Py]
 [<img align="left" alt="Django" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" style="padding-right:10px;"/>][django]
@@ -57,6 +59,7 @@ Seeking to take the next step in my career,I am constantly updating my skills, f
 
 </details>
 
+
 [dev-group]: https://devgroup.netlify.app/
 [birdgame]: https://github.com/stens0n/flappyFridge_PYGAME
 [website]: https://codeSTACKr.com
@@ -76,4 +79,5 @@ Seeking to take the next step in my career,I am constantly updating my skills, f
 [Py]: https://docs.python.org/3/
 [django]: https://docs.djangoproject.com/en/4.0/
 [GITHUB]: https://github.com/stens0n
-[CRYPTO]:https://stenson-crypto-react-api.netlify.app/
+[CRYPTO]: https://cryptoapistenson.netlify.app/
+[Tailwind]: https://v2.tailwindcss.com/docs
