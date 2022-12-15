@@ -1,5 +1,5 @@
 <p align="center"><a href="https://anthonystenson.com/"><img width="80%" src="./img/mario.gif" /></a></p>
-Freelance Web Developer seeking to take the next step in my career, I am constantly updating my skills, and building projects
+Hello, I'm a self-taught freelancer programmer with a passion for coding. I've been working on my own for 2 years and have developed a strong set of skills and experience in Web Development. I'm always looking for new opportunities to work with interesting clients and projects. Check out my portfolio on my GitHub profile and let's make something amazing together!
 
 
 
