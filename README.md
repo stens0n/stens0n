@@ -16,8 +16,8 @@ Hello, I'm a self-taught programmer with a passion for coding. I've been working
 [![website](./img/globe-light.svg)](https://anthonystenson.com/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://anthonystenson.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anthony-stenson-b33472217/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anthony-stenson-b33472217/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anthony-stenson-b33472217/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anthony-stenson-b33472217/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/#gh-dark-mode-only)
