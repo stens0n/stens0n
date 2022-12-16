@@ -8,7 +8,7 @@ As a self-taught developer, I have a unique perspective and approach to problem-
 
 In my free time, you can find me tinkering with new technologies and experimenting with different ways to bring my projects to life. I am constantly pushing myself to be the best developer I can be and I am always looking for opportunities to grow and make an impact.
 
-I am excited to bring my skills and passion to any project I work on and I am confident that my expertise in React and Tailwind will help me deliver top-quality work for my clients.
+I am excited to bring my skills and passion to any project I work on and I am confident that my skill will help me deliver top-quality work for any client.
 
 
 
