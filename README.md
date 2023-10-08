@@ -90,7 +90,3 @@ I am excited to bring my skills and passion to any project I work on and I am co
 [GITHUB]: https://github.com/stens0n
 [CRYPTO]: https://cryptoapistenson.netlify.app/
 [Tailwind]: https://v2.tailwindcss.com/docs
-<<<<<<< HEAD
-
-=======
->>>>>>> 446c272c37c08a3be04c56a21668c94e96ddc721
