@@ -14,6 +14,7 @@ I am excited to bring my skills and passion to any project I work on and I am co
 
 ## Check out some of my projects
 
+- AI Image Generator: [Using OpenAI DALLE 2 API][aigen]
 - 💸 Top 20 ranked Crypto Tracker: [Tracks the Top 20 crypto currencies on the blockchain using the CoinGecko API][CRYPTO]
 - 🏦 Stenson Bank: [Stenson Bank using ReactJS][bank-react]
 - 🖥️ Stenson Dev Group: [Freelance business Website Concept][dev-group]
@@ -68,6 +69,7 @@ I am excited to bring my skills and passion to any project I work on and I am co
 
 </details>
 
+[aigen]: https://stensonai.netlify.app/
 [port]: https://astenson.netlify.app/
 [dev-group]: https://devgroup.netlify.app/
 [birdgame]: https://github.com/stens0n/flappyFridge_PYGAME
