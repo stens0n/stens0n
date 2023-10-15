@@ -4,11 +4,11 @@ Hi There! My name is Anthony, and I'm a self-taught developer with a strong focu
 
 I have always been passionate about technology and the endless possibilities it brings, and that passion drove me to start teaching myself to code. Through dedication and hard work, I've honed my skills and become proficient in React and Tailwind, two powerful tools that allow me to build dynamic and visually appealing websites.
 
-As a self-taught developer, I have a unique perspective and approach to problem-solving. I am not afraid to take on challenges and I am always eager to learn and improve my skills.
+As a self-taught developer, I have a unique perspective and approach to problem-solving. I'm not afraid to take on challenges and I am always eager to learn and improve my skills.
 
-In my free time, you can find me tinkering with new technologies and experimenting with different ways to bring my projects to life. I am constantly pushing myself to be the best developer I can be and I am always looking for opportunities to grow and make an impact.
+In my free time, you can find me tinkering with new technologies and experimenting with different ways to bring my projects to life. I'm constantly pushing myself to be the best developer I can be and I'm always looking for opportunities to grow and make an impact.
 
-I am excited to bring my skills and passion to any project I work on and I am confident that my skill will help me deliver top-quality work for any client.
+I'm excited to bring my skills and passion to any project I work on and I'm confident that my skill will help me deliver top-quality work for any client.
 
 [PORTFOLIO WEBSITE][port]
 
