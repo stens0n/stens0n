@@ -1,8 +1,8 @@
 <p align="center"><a href="https://anthonystenson.com/"><img width="80%" src="./img/mario.gif" /></a></p>
 
-My name is Anthony, and I am a self-taught web developer with a strong focus on Front End Developmet.
+Hi There! My name is Anthony, and I am a self-taught web developer with a strong focus on Front End Developmet.
 
-I have always been passionate about technology and the endless possibilities it brings, and that passion drove me to start teaching myself web development. Through dedication and hard work, I have honed my skills and become proficient in React and Tailwind, two powerful tools that allow me to build dynamic and visually appealing websites.
+I have always been passionate about technology and the endless possibilities it brings, and that passion drove me to start teaching myself to code. Through dedication and hard work, I've honed my skills and become proficient in React and Tailwind, two powerful tools that allow me to build dynamic and visually appealing websites.
 
 As a self-taught developer, I have a unique perspective and approach to problem-solving. I am not afraid to take on challenges and I am always eager to learn and improve my skills.
 
@@ -18,7 +18,6 @@ I am excited to bring my skills and passion to any project I work on and I am co
 - 💸 Top 20 ranked Crypto Tracker: [Tracks the Top 20 crypto currencies on the blockchain using the CoinGecko API][CRYPTO]
 - 🏦 Stenson Bank: [Stenson Bank using ReactJS][bank-react]
 - 🖥️ Stenson Dev Group: [Freelance business Website Concept][dev-group]
-- 🌱 Flappy Bird: [Customized Flappy Bird using PyGame][birdgame]!
 
 
 ### Connect with me:
