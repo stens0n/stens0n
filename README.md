@@ -1,6 +1,6 @@
 <p align="center"><a href="https://anthonystenson.com/"><img width="80%" src="./img/mario.gif" /></a></p>
 
-Hi There! My name is Anthony, and I am a self-taught web developer with a strong focus on Front End Developmet.
+Hi There! My name is Anthony, and I'm a self-taught web developer with a strong focus on Front End Developmet.
 
 I have always been passionate about technology and the endless possibilities it brings, and that passion drove me to start teaching myself to code. Through dedication and hard work, I've honed my skills and become proficient in React and Tailwind, two powerful tools that allow me to build dynamic and visually appealing websites.
 
