@@ -18,12 +18,13 @@ I'm excited to bring my skills and passion to any project I work on and I'm conf
 - 💸 Top 20 ranked Crypto Tracker: [Tracks the Top 20 crypto currencies on the blockchain using the CoinGecko API][CRYPTO]
 - 🏦 Stenson Bank: [Stenson Bank using ReactJS][bank-react]
 - 🖥️ Stenson Dev Group: [Freelance business Website Concept][dev-group]
+- Flappy Fridge: [Flappy Bird Remake][game]
 
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://anthonystenson.com/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://anthonystenson.com/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://astenson.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://astenson.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/anthony-stenson-b33472217/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/anthony-stenson-b33472217/#gh-dark-mode-only)
@@ -68,6 +69,7 @@ I'm excited to bring my skills and passion to any project I work on and I'm conf
 
 </details>
 
+[game]: https://flappyfridge.netlify.app/
 [aigen]: https://stensonai.netlify.app/
 [port]: https://astenson.netlify.app/
 [dev-group]: https://devgroup.netlify.app/
