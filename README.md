@@ -18,7 +18,7 @@ I'm excited to bring my skills and passion to any project I work on and I'm conf
 - 💸 Top 20 ranked Crypto Tracker: [Tracks the Top 20 crypto currencies on the blockchain using the CoinGecko API][CRYPTO]
 - 🏦 Stenson Bank: [Stenson Bank using ReactJS][bank-react]
 - 🖥️ Stenson Dev Group: [Freelance business Website Concept][dev-group]
-- Flappy Fridge: [Flappy Bird Remake][game]
+- Flappy Bird: [Flappy Bird Remake][game]
 
 
 ### Connect with me:
@@ -69,7 +69,7 @@ I'm excited to bring my skills and passion to any project I work on and I'm conf
 
 </details>
 
-[game]: https://flappyfridge.netlify.app/
+[game]: https://flappybirdstenson.netlify.app/
 [aigen]: https://stensonai.netlify.app/
 [port]: https://astenson.netlify.app/
 [dev-group]: https://devgroup.netlify.app/
