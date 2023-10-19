@@ -8,7 +8,7 @@ In my free time, you can find me tinkering with new technologies and experimenti
 
 I'm excited to bring my skills and passion to any project I work on and I'm confident that my skill will help me deliver top-quality work for any client.
 
-[PORTFOLIO WEBSITE][port]
+💼🗂️[PORTFOLIO WEBSITE][port]📂🖥️
 
 ## Check out some of my projects
 
