@@ -12,12 +12,12 @@ I'm excited to bring my skills and passion to any project I work on and I'm conf
 
 ## Check out some of my projects
 
-- AI Image Generator: [Using OpenAI DALLE 2 API][aigen]
-- Algorithm Visualizer: [Visual Sorting Algo's][algo]
+- 🤖AI Image Generator: [Using OpenAI DALLE 2 API][aigen]
+- 🧮Algorithm Visualizer: [Visual Sorting Algo's][algo]
 - 💸 Top 20 ranked Crypto Tracker: [Tracks the Top 20 crypto currencies on the blockchain using the CoinGecko API][CRYPTO]
 - 🏦 Stenson Bank: [Stenson Bank using ReactJS][bank-react]
 - 🖥️ Stenson Dev Group: [Freelance business Website Concept][dev-group]
-- Flappy Bird: [Flappy Bird Remake][game]
+- 🐦Flappy Bird: [Flappy Bird Remake][game]
 
 
 ### Connect with me:
